@@ -1,0 +1,8 @@
+D:\pr\ETEC\2º Modulo\DS I - Desenvolvimento de Sistemas 1\Chicão\HeroGame_v0\HeroGame_v0\bin\Debug\HeroGame_v0.exe.config
+D:\pr\ETEC\2º Modulo\DS I - Desenvolvimento de Sistemas 1\Chicão\HeroGame_v0\HeroGame_v0\bin\Debug\HeroGame_v0.exe
+D:\pr\ETEC\2º Modulo\DS I - Desenvolvimento de Sistemas 1\Chicão\HeroGame_v0\HeroGame_v0\bin\Debug\HeroGame_v0.pdb
+D:\pr\ETEC\2º Modulo\DS I - Desenvolvimento de Sistemas 1\Chicão\HeroGame_v0\HeroGame_v0\obj\Debug\HeroGame_v0.csprojResolveAssemblyReference.cache
+D:\pr\ETEC\2º Modulo\DS I - Desenvolvimento de Sistemas 1\Chicão\HeroGame_v0\HeroGame_v0\obj\Debug\HeroGame_v0.MainForm.resources
+D:\pr\ETEC\2º Modulo\DS I - Desenvolvimento de Sistemas 1\Chicão\HeroGame_v0\HeroGame_v0\obj\Debug\HeroGame_v0.csproj.GenerateResource.Cache
+D:\pr\ETEC\2º Modulo\DS I - Desenvolvimento de Sistemas 1\Chicão\HeroGame_v0\HeroGame_v0\obj\Debug\HeroGame_v0.exe
+D:\pr\ETEC\2º Modulo\DS I - Desenvolvimento de Sistemas 1\Chicão\HeroGame_v0\HeroGame_v0\obj\Debug\HeroGame_v0.pdb
